@@ -15,7 +15,7 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:5173',
-    'https://rest-api-backend-iota.vercel.app/login' // update after Vercel deploy
+    'https://rest-api-backend-iota.vercel.app' // update after Vercel deploy
   ],
   credentials: true,
 }));
