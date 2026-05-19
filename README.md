@@ -237,4 +237,4 @@ Integrate **Winston** or **Morgan** for structured logging. Add **Sentry** for e
 
 **Your Name**
 - GitHub: [@suyash-jaiswal2](https://github.com/suyash-jaiswal2)
-- Email: youremail@example.com
+- Email: jaiswalsuyash631@gmail.com
